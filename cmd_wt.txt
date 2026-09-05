@@ -1,0 +1,21 @@
+cd "$HOME\OneDrive\Documents\open-content-studio"
+
+.\.venv\Scripts\Activate.ps1
+
+mkdir src
+mkdir src\transcription
+
+New-Item src\__init__.py -ItemType File
+New-Item src\transcription\__init__.py -ItemType File
+New-Item src\transcription\transcribe.py -ItemType File
+
+Get-ChildItem src -Recurse
+
+
+https://youtu.be/FKFDGvOdJ9g?list=RDJeLIYZJ3hfM Aloo Kachalu
+
+https://youtu.be/gAM6v3BkjYE?list=RDJeLIYZJ3hfM Hathi Raja kahan chale     
+
+.\.venv\Scripts\python.exe -u -B -m src.script.generate FKFDGvOdJ9g --attempts 2 
+
+https://chatgpt.com/s/cx_6a9bab368e4481918a8a6bee23320db8                                                                                                                                       
