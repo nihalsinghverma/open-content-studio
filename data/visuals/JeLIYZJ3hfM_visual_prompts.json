@@ -1,0 +1,71 @@
+{
+  "video_id": "JeLIYZJ3hfM",
+  "title": "मीरा और रंगभूमी",
+  "character": "मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 5,
+      "purpose": "HOOK",
+      "narration": "मीरा गाती है।",
+      "source_visual": "मीरा गिलहरी गाती है। उसकी गानी सुनते हुए एक खिलाड़ी उसके गायन में निगाह डालता है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: HOOK. Action and composition: मीरा गिलहरी गाती है। उसकी गानी सुनते हुए एक खिलाड़ी उसके गायन में निगाह डालता है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 2,
+      "duration": 5,
+      "purpose": "SETUP",
+      "narration": "रात हो जाने पर जंगल में रंगभूमी बनाना चाहती है।",
+      "source_visual": "गिलहरी जंगल में चलती है। वह उसी रात होने पर रंगभूमी बनाने की इच्छा रखती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: SETUP. Action and composition: गिलहरी जंगल में चलती है। वह उसी रात होने पर रंगभूमी बनाने की इच्छा रखती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 3,
+      "duration": 5,
+      "purpose": "GOAL",
+      "narration": "मीरा रंगभूमी ले जाती है।",
+      "source_visual": "मीरा रंगभूमी का आक्रमण करती है। उसकी पतंग चाबी उड़ जाती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: GOAL. Action and composition: मीरा रंगभूमी का आक्रमण करती है। उसकी पतंग चाबी उड़ जाती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 4,
+      "duration": 5,
+      "purpose": "PROBLEM",
+      "narration": "पतंग चाबी गलत तरीके से उड़ जाती है।",
+      "source_visual": "पतंग चाबी गलत तरीके से उड़ जाती है। रंगभूमी खो जाती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: PROBLEM. Action and composition: पतंग चाबी गलत तरीके से उड़ जाती है। रंगभूमी खो जाती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 5,
+      "duration": 5,
+      "purpose": "ESCALATION",
+      "narration": "रंगभूमी के रंग लगने लगे हैं।",
+      "source_visual": "रंगभूमी के रंग गालाकार गिलहरी के पास आते हैं। वह दिलचस्प गिलहरी बनाती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: ESCALATION. Action and composition: रंगभूमी के रंग गालाकार गिलहरी के पास आते हैं। वह दिलचस्प गिलहरी बनाती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 6,
+      "duration": 5,
+      "purpose": "TWIST",
+      "narration": "परिवार की पैंजार लाए जाते हैं।",
+      "source_visual": "परिवार की पैंजार लाए जाते हैं जो रंगभूमी बनाने में मदद करती हैं।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: TWIST. Action and composition: परिवार की पैंजार लाए जाते हैं जो रंगभूमी बनाने में मदद करती हैं।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 7,
+      "duration": 5,
+      "purpose": "RESOLUTION",
+      "narration": "रंगभूमी बनाई गई है।",
+      "source_visual": "रंगभूमी बनाई जाती है। गिलहरी अपनी दृश्य को दिखाती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: RESOLUTION. Action and composition: रंगभूमी बनाई जाती है। गिलहरी अपनी दृश्य को दिखाती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    },
+    {
+      "scene": 8,
+      "duration": 5,
+      "purpose": "PUNCHLINE",
+      "narration": "मीरा अपनी दृश्य दिखाती है।",
+      "source_visual": "मीरा अपनी दृश्य दिखाती है। रंगभूमी में अपनी गिलहरी दृश्य दिखाती है।",
+      "image_prompt": "Create a colourful 3D children's animation frame. Main character: मीरा, हरे स्कार्फ वाली छोटी गिलहरी, दिलचस्प और अभिनय कुशल. Scene purpose: PUNCHLINE. Action and composition: मीरा अपनी दृश्य दिखाती है। रंगभूमी में अपनी गिलहरी दृश्य दिखाती है।. Keep the character appearance, clothing, colours and proportions consistent with previous scenes. Bright cinematic lighting, expressive face, clear readable action, playful family-friendly atmosphere, vertical 9:16 composition, no text, no subtitles, no watermark."
+    }
+  ]
+}
